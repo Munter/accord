@@ -112,6 +112,7 @@ It's also important to note that accord returns an object rather than a string f
 - [coco](https://github.com/satyr/coco)
 - [livescript](https://github.com/gkz/LiveScript)
 - [6to5](https://github.com/6to5/6to5)
+- [cjsx](https://github.com/jsdf/coffee-react-transform)
 
 #### Minifiers
 
